@@ -4,14 +4,10 @@ import random as r
 
 words = {
     "python": "Programming",
-    "html": "Web Development",
     "hangman": "Game",
     "computer": "Technology",
     "developer": "Career",
-    "bee": "Insects",
     "butterfly": "Insects",
-    "lion": "Animals",
-    "tiger": "Animals",
 }
 
 incorrect_guesses = 0
